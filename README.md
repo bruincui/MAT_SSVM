@@ -12,7 +12,6 @@ Note that this is designed only for better understanding the principles of struc
 References:  
 [1] T. Joachims, T. Finley, Chun-Nam Yu, Cutting-Plane Training of Structural SVMs, Machine Learning Journal.
 
- ==========================================================
 
 Created by Chaoran Cui (bruincui@gmail.com)  
 homepage: http://ir.sdu.edu.cn/~chaorancui/  
